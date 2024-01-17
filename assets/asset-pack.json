@@ -1,0 +1,508 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/background/Background.png",
+                "type": "image",
+                "key": "Background"
+            },
+            {
+                "url": "assets/images/icons/btnCircle.png",
+                "type": "image",
+                "key": "btnCircle"
+            },
+            {
+                "url": "assets/images/cards/card-black-13.png",
+                "type": "image",
+                "key": "card-black-13"
+            },
+            {
+                "url": "assets/images/cards/card-black-14.png",
+                "type": "image",
+                "key": "card-black-14"
+            },
+            {
+                "url": "assets/images/cards/card-blue-0.png",
+                "type": "image",
+                "key": "card-blue-0"
+            },
+            {
+                "url": "assets/images/cards/card-blue-1.png",
+                "type": "image",
+                "key": "card-blue-1"
+            },
+            {
+                "url": "assets/images/cards/card-blue-10.png",
+                "type": "image",
+                "key": "card-blue-10"
+            },
+            {
+                "url": "assets/images/cards/card-blue-11.png",
+                "type": "image",
+                "key": "card-blue-11"
+            },
+            {
+                "url": "assets/images/cards/card-blue-12.png",
+                "type": "image",
+                "key": "card-blue-12"
+            },
+            {
+                "url": "assets/images/cards/card-blue-2.png",
+                "type": "image",
+                "key": "card-blue-2"
+            },
+            {
+                "url": "assets/images/cards/card-blue-3.png",
+                "type": "image",
+                "key": "card-blue-3"
+            },
+            {
+                "url": "assets/images/cards/card-blue-4.png",
+                "type": "image",
+                "key": "card-blue-4"
+            },
+            {
+                "url": "assets/images/cards/card-blue-5.png",
+                "type": "image",
+                "key": "card-blue-5"
+            },
+            {
+                "url": "assets/images/cards/card-blue-6.png",
+                "type": "image",
+                "key": "card-blue-6"
+            },
+            {
+                "url": "assets/images/cards/card-blue-7.png",
+                "type": "image",
+                "key": "card-blue-7"
+            },
+            {
+                "url": "assets/images/cards/card-blue-8.png",
+                "type": "image",
+                "key": "card-blue-8"
+            },
+            {
+                "url": "assets/images/cards/card-blue-9.png",
+                "type": "image",
+                "key": "card-blue-9"
+            },
+            {
+                "url": "assets/images/cards/card-green-0.png",
+                "type": "image",
+                "key": "card-green-0"
+            },
+            {
+                "url": "assets/images/cards/card-green-1.png",
+                "type": "image",
+                "key": "card-green-1"
+            },
+            {
+                "url": "assets/images/cards/card-green-10.png",
+                "type": "image",
+                "key": "card-green-10"
+            },
+            {
+                "url": "assets/images/cards/card-green-11.png",
+                "type": "image",
+                "key": "card-green-11"
+            },
+            {
+                "url": "assets/images/cards/card-green-12.png",
+                "type": "image",
+                "key": "card-green-12"
+            },
+            {
+                "url": "assets/images/cards/card-green-2.png",
+                "type": "image",
+                "key": "card-green-2"
+            },
+            {
+                "url": "assets/images/cards/card-green-3.png",
+                "type": "image",
+                "key": "card-green-3"
+            },
+            {
+                "url": "assets/images/cards/card-green-4.png",
+                "type": "image",
+                "key": "card-green-4"
+            },
+            {
+                "url": "assets/images/cards/card-green-5.png",
+                "type": "image",
+                "key": "card-green-5"
+            },
+            {
+                "url": "assets/images/cards/card-green-6.png",
+                "type": "image",
+                "key": "card-green-6"
+            },
+            {
+                "url": "assets/images/cards/card-green-7.png",
+                "type": "image",
+                "key": "card-green-7"
+            },
+            {
+                "url": "assets/images/cards/card-green-8.png",
+                "type": "image",
+                "key": "card-green-8"
+            },
+            {
+                "url": "assets/images/cards/card-green-9.png",
+                "type": "image",
+                "key": "card-green-9"
+            },
+            {
+                "url": "assets/images/background/Card-Holder-Bottom.png",
+                "type": "image",
+                "key": "Card-Holder-Bottom"
+            },
+            {
+                "url": "assets/images/background/Card-Holder-Center.png",
+                "type": "image",
+                "key": "Card-Holder-Center"
+            },
+            {
+                "url": "assets/images/background/Card-Holder-Left.png",
+                "type": "image",
+                "key": "Card-Holder-Left"
+            },
+            {
+                "url": "assets/images/background/Card-Holder-Right.png",
+                "type": "image",
+                "key": "Card-Holder-Right"
+            },
+            {
+                "url": "assets/images/background/Card-Holder-Top.png",
+                "type": "image",
+                "key": "Card-Holder-Top"
+            },
+            {
+                "url": "assets/images/cards/card-plus-2.png",
+                "type": "image",
+                "key": "card-plus-2"
+            },
+            {
+                "url": "assets/images/cards/card-plus-4.png",
+                "type": "image",
+                "key": "card-plus-4"
+            },
+            {
+                "url": "assets/images/cards/card-red-0.png",
+                "type": "image",
+                "key": "card-red-0"
+            },
+            {
+                "url": "assets/images/cards/card-red-1.png",
+                "type": "image",
+                "key": "card-red-1"
+            },
+            {
+                "url": "assets/images/cards/card-red-10.png",
+                "type": "image",
+                "key": "card-red-10"
+            },
+            {
+                "url": "assets/images/cards/card-red-11.png",
+                "type": "image",
+                "key": "card-red-11"
+            },
+            {
+                "url": "assets/images/cards/card-red-12.png",
+                "type": "image",
+                "key": "card-red-12"
+            },
+            {
+                "url": "assets/images/cards/card-red-2.png",
+                "type": "image",
+                "key": "card-red-2"
+            },
+            {
+                "url": "assets/images/cards/card-red-3.png",
+                "type": "image",
+                "key": "card-red-3"
+            },
+            {
+                "url": "assets/images/cards/card-red-4.png",
+                "type": "image",
+                "key": "card-red-4"
+            },
+            {
+                "url": "assets/images/cards/card-red-5.png",
+                "type": "image",
+                "key": "card-red-5"
+            },
+            {
+                "url": "assets/images/cards/card-red-6.png",
+                "type": "image",
+                "key": "card-red-6"
+            },
+            {
+                "url": "assets/images/cards/card-red-7.png",
+                "type": "image",
+                "key": "card-red-7"
+            },
+            {
+                "url": "assets/images/cards/card-red-8.png",
+                "type": "image",
+                "key": "card-red-8"
+            },
+            {
+                "url": "assets/images/cards/card-red-9.png",
+                "type": "image",
+                "key": "card-red-9"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-0.png",
+                "type": "image",
+                "key": "card-yellow-0"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-1.png",
+                "type": "image",
+                "key": "card-yellow-1"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-10.png",
+                "type": "image",
+                "key": "card-yellow-10"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-11.png",
+                "type": "image",
+                "key": "card-yellow-11"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-12.png",
+                "type": "image",
+                "key": "card-yellow-12"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-2.png",
+                "type": "image",
+                "key": "card-yellow-2"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-3.png",
+                "type": "image",
+                "key": "card-yellow-3"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-4.png",
+                "type": "image",
+                "key": "card-yellow-4"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-5.png",
+                "type": "image",
+                "key": "card-yellow-5"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-6.png",
+                "type": "image",
+                "key": "card-yellow-6"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-7.png",
+                "type": "image",
+                "key": "card-yellow-7"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-8.png",
+                "type": "image",
+                "key": "card-yellow-8"
+            },
+            {
+                "url": "assets/images/cards/card-yellow-9.png",
+                "type": "image",
+                "key": "card-yellow-9"
+            },
+            {
+                "url": "src/components/CardHover.js",
+                "type": "script",
+                "key": "CardHover"
+            },
+            {
+                "url": "src/script/CardManager.js",
+                "type": "script",
+                "key": "CardManager"
+            },
+            {
+                "url": "src/prefabs/CardPrefab.js",
+                "type": "script",
+                "key": "CardPrefab"
+            },
+            {
+                "url": "src/components/CardPreset.js",
+                "type": "script",
+                "key": "CardPreset"
+            },
+            {
+                "url": "assets/images/Clock Icon.png",
+                "type": "image",
+                "key": "Clock Icon"
+            },
+            {
+                "url": "assets/images/Clock-Icon-Holder.png",
+                "type": "image",
+                "key": "Clock-Icon-Holder"
+            },
+            {
+                "url": "assets/images/Close-Button.png",
+                "type": "image",
+                "key": "Close-Button"
+            },
+            {
+                "url": "assets/images/closeBtn.png",
+                "type": "image",
+                "key": "closeBtn"
+            },
+            {
+                "url": "assets/images/coinbg.png",
+                "type": "image",
+                "key": "coinbg"
+            },
+            {
+                "url": "src/components/DiractionAnimation.js",
+                "type": "script",
+                "key": "DiractionAnimation"
+            },
+            {
+                "url": "assets/images/buttons/draw-button.png",
+                "type": "image",
+                "key": "draw-button"
+            },
+            {
+                "url": "assets/images/buttons/draw4-button.png",
+                "type": "image",
+                "key": "draw4-button"
+            },
+            {
+                "url": "assets/images/cards/draw4-card.png",
+                "type": "image",
+                "key": "draw4-card"
+            },
+            {
+                "url": "src/script/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "assets/images/buttons/green butten.png",
+                "type": "image",
+                "key": "green butten"
+            },
+            {
+                "url": "assets/images/buttons/icon-08.png",
+                "type": "image",
+                "key": "icon-08"
+            },
+            {
+                "url": "assets/images/Info-Button.png",
+                "type": "image",
+                "key": "Info-Button"
+            },
+            {
+                "url": "src/script/InputManager.js",
+                "type": "script",
+                "key": "InputManager"
+            },
+            {
+                "url": "assets/images/Life-[-Dark-].png",
+                "type": "image",
+                "key": "Life-[-Dark-]"
+            },
+            {
+                "url": "assets/images/Life-[-Light-].png",
+                "type": "image",
+                "key": "Life-[-Light-]"
+            },
+            {
+                "url": "assets/images/Life-Holder.png",
+                "type": "image",
+                "key": "Life-Holder"
+            },
+            {
+                "url": "assets/images/player-bg.png",
+                "type": "image",
+                "key": "player-bg"
+            },
+            {
+                "url": "src/script/PlayerManager.js",
+                "type": "script",
+                "key": "PlayerManager"
+            },
+            {
+                "url": "src/prefabs/PlayerProfile.js",
+                "type": "script",
+                "key": "PlayerProfile"
+            },
+            {
+                "url": "assets/images/popup.png",
+                "type": "image",
+                "key": "popup"
+            },
+            {
+                "url": "assets/images/profile-icon.png",
+                "type": "image",
+                "key": "profile-icon"
+            },
+            {
+                "url": "assets/images/buttons/red botten.png",
+                "type": "image",
+                "key": "red botten"
+            },
+            {
+                "url": "assets/images/icons/reverse.png",
+                "type": "image",
+                "key": "reverse"
+            },
+            {
+                "url": "assets/images/round_aero.png",
+                "type": "image",
+                "key": "round_aero"
+            },
+            {
+                "url": "assets/images/icons/skip-blue.png",
+                "type": "image",
+                "key": "skip-blue"
+            },
+            {
+                "url": "src/script/SocketManager.js",
+                "type": "script",
+                "key": "SocketManager"
+            },
+            {
+                "url": "src/script/SoundManager.js",
+                "type": "script",
+                "key": "SoundManager"
+            },
+            {
+                "url": "assets/images/timer-ring.png",
+                "type": "image",
+                "key": "timer-ring"
+            },
+            {
+                "url": "src/script/TweenManager.js",
+                "type": "script",
+                "key": "TweenManager"
+            },
+            {
+                "url": "src/script/UiManager.js",
+                "type": "script",
+                "key": "UiManager"
+            },
+            {
+                "url": "src/prefabs/WinnerPrefab.js",
+                "type": "script",
+                "key": "WinnerPrefab"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
